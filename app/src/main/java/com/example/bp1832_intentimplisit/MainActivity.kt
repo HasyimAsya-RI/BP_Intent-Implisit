@@ -1,4 +1,4 @@
-package com.example.bp_4intentimplisit
+package com.example.bp1832_intentimplisit
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

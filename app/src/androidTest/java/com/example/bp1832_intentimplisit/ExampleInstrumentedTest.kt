@@ -1,4 +1,4 @@
-package com.example.bp_4intentimplisit
+package com.example.bp1832_intentimplisit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
